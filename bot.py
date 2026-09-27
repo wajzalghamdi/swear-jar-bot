@@ -8,7 +8,7 @@ intents.message_content = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-CHANNEL_NAME = "swear-jar"
+CHANNEL_NAME = "bot-test"
 
 
 @bot.event
